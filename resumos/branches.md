@@ -23,10 +23,12 @@ git add .
 Visualiza os commits anteriores de todas as branches criadas no repositório em questão:
 ```
 git branch -v
+```
 
 Realiza a mesclagem das branches definidas:
 ```
 git merge 'nomeBranch'
+```
 
 Lista as branches criadas:
 ```
