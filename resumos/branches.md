@@ -39,4 +39,3 @@ Realiza a exclusão da branch:
 ```
 git branch -d 'nomeBranch'
 ```
-```
